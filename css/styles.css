@@ -1,1 +1,36 @@
 body { background-color: palegoldenrod; }
+
+h1 {
+    font-family: 'Lily Script One', cursive;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    padding: 0%;
+}
+
+li {
+    display: inline-block;
+    vertical-align: top right;
+    padding: 15px;
+    
+}
+
+nav {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 0,400;
+    font-size: 18px;
+    color: darkslategray;
+    width: 73%;
+    padding: %;
+}
+
+.navigation {
+    background-color: white;
+}
