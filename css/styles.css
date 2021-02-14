@@ -1,7 +1,19 @@
-body { background-color: palegoldenrod; }
+html { background-color: white !important; }
 
 h1 {
     font-family: 'Lily Script One', cursive;
+    font-size: 20px;
+}
+
+h2 {
+    font-family: 'Lily Script One', cursive;
+    font-size: 12px;
+}
+
+h3 {
+    font-family: 'Lily Script One', cursive;
+    font-size: 9px;
+    padding: 20px;
 }
 
 .inline-block {
@@ -33,4 +45,14 @@ nav {
 
 .navigation {
     background-color: white;
+}
+
+.navbar-nav {
+    padding-left: 100px;
+
+}
+
+section {
+    display: flex;
+    margin: 0, auto;
 }
